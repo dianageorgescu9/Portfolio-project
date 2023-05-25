@@ -1,0 +1,16 @@
+Datasheet
+
+The purpose of creating the RA-MAP dataset is to investigate the molecular immunological profiles in individuals with early rheumatoid arthritis and healthy vaccine recipients. This dataset may aim to understand the immune system's response and identify potential biomarkers or targets for rheumatoid arthritis or study the immune response to vaccines in healthy individuals.
+
+The Ra-MaP (Molecular Immunological Landscapes in Early Rheumatoid Arthritis and Healthy Vaccine Recipients) Consortium is a UK industry-academic precision medicine partnership funded by the Medical Research Council and the Association of the British Pharmaceutical Industry. The consortium aims to investigate clinical and biological predictors of disease outcome and treatment response in rheumatoid arthritis (RA) using comprehensive clinical and molecular profiling.
+
+The study focuses on early, drug-naive RA patients and healthy vaccine recipients. The researchers performed extensive clinical and molecular profiling of 267 RA patients and 52 healthy vaccine recipients over a period of up to 18 months. They established a high-quality sample biobank, which included plasma, serum, peripheral blood cells, urine, genomic DNA, RNA from whole blood, lymphocyte subsets, and monocyte subsets. The comprehensive multi-omic immune phenotyping included genomic, metabolomic, proteomic, transcriptomic, and autoantibody profiling.
+
+The goal of the consortium is to gain insights into the immune-mediated disease pathogenesis, progression, and therapeutic response in RA. By analyzing the detailed clinical and molecular data, the researchers aim to contribute to the development and application of targeted therapies for RA. The study also aims to inform the design and analysis of future studies on blood and immune cell subsets in RA and other immune-mediated inflammatory diseases.
+
+The researchers compare the molecular immunological landscapes between early RA patients and healthy vaccine recipients, with a focus on identifying disease subtypes, immunological correlates of disease activity and autoimmunity, and biomarkers of treatment response. By characterizing the molecular heterogeneity of RA phenotypes in peripheral blood, the study provides a fundamental reference for analyzing the blood immunological landscape in RA and other immune-mediated inflammatory diseases.
+
+The methods of the study involve recruiting patients who meet the eligibility criteria for early RA, collecting clinical data and biological samples at regular intervals, and performing various molecular analyses on the collected samples. The study follows the standard of care for RA patients, with first-line treatment using conventional synthetic disease-modifying anti-rheumatic drugs (csDMARDs) such as methotrexate. The patients are followed longitudinally for up to 18 months to assess disease progression and treatment response.
+
+Overall, the Ra-MaP Consortium aims to advance our understanding of RA by investigating the molecular and immunological aspects of the disease. The comprehensive profiling and analysis of clinical and molecular data obtained from early RA patients and healthy vaccine recipients will contribute to personalized medicine approaches and the development of targeted therapies for RA.
+
